@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!-- HEADER -->
+    <header_1>
+      <text>Donar</text>
+    </header_1>
+    <header_2>
+      <text>Merc. De Criptomonedas</text>
+    </header_2>
+    <header_3>
+      <text>Calculadora Convertidor</text>
+    </header_3>
+    <header_4>
+      <text>Alerta Precio</text>
+    </header_4>
+    <header_5>
+      <text>Otras Herra.</text>
+    </header_5>
+    <header_6>
+      <text>Generador De Código QR</text>
+    </header_6>
+    <header_7>
+      <text>Sitios De Intercambio</text>
+    </header_7>
+    <!-- HEADER -->
+    
+    <!-- FOOTER -->
+    <footer_1>
+      <text>Preguntas Más Frecuentes</text>
+    </footer_1>
+    <footer_2>
+      <text>Donar</text>
+    </footer_2>
+    <footer_3>
+      <text>Contacto</text>
+    </footer_3>
+    <footer_4>
+      <text>Sitemap</text>
+    </footer_4>
+    <!-- FOOTER -->
+
+    <!-- HOMEPAGE -->
+    <index_1>
+      <text>Herramientas De Criptomoneda</text>
+    </index_1>
+    <index_2>
+      <text>Tapa Del Mercado</text>
+    </index_2>
+    <index_3>
+      <text>Calculadora</text>
+    </index_3>
+    <index_4>
+      <text>Alerta</text>
+    </index_4>
+    <index_5>
+      <text>QR Code</text>
+    </index_5>
+    <index_6>
+      <text>Intercambio</text>
+    </index_6>
+    <index_7>
+      <text>Capitalizaciones De Mercado Criptomonedas</text>
+    </index_7>
+    <index_8>
+      <text>Cryptocurrencies</text>
+    </index_8>
+    <index_9>
+      <text>No.</text>
+    </index_9>
+    <index_10>
+      <text>Nombre de Moneda</text>
+    </index_10>
+    <index_11>
+      <text>Precio</text>
+    </index_11>
+    <index_12>
+      <text>Tapa del mercado</text>
+    </index_12>
+    <index_13>
+      <text>Volumen (24h)</text>
+    </index_13>
+    <index_14>
+      <text>Cambio (24h)</text>
+    </index_14>
+    <index_15>
+      <text>Gráfico De Precios (7d)</text>
+    </index_15>
+    <index_16>
+      <text>Anterior</text>
+    </index_16>
+    <index_17>
+      <text>Siguiente</text>
+    </index_17>
+    <index_18>
+      <text>Buscar</text>
+    </index_18>
+    <!-- HOMEPAGE -->
+
+    <!-- COIN DETAIL PAGE -->
+    <coin_1>
+      <text>Información</text>
+    </coin_1>
+    <coin_2>
+      <text>Última Actualización</text>
+    </coin_2>
+    <coin_3>
+      <text>Sitio Web</text>
+    </coin_3>
+    <coin_4>
+      <text>Explorador</text>
+    </coin_4>
+    <coin_5>
+      <text>Tablero De Mensajes</text>
+    </coin_5>
+    <coin_6>
+      <text>Charla</text>
+    </coin_6>
+    <coin_7>
+      <text>Código Fuente</text>
+    </coin_7>
+    <coin_8>
+      <text>Anuncio</text>
+    </coin_8>
+    <coin_10>
+      <text>Alerta De Precio</text>
+    </coin_10>
+    <coin_11>
+      <text>Compra / Venta Al Instante</text>
+    </coin_11>
+    <coin_12>
+      <text>Tapa del mercado</text>
+    </coin_12>
+    <coin_13>
+      <text>Volumen (24h)</text>
+    </coin_13>
+    <coin_14>
+      <text>Fuente circulante</text>
+    </coin_14>
+    <coin_15>
+      <text>Suministro máximo</text>
+    </coin_15>
+    <coin_16>
+      <text>Gráficos</text>
+    </coin_16>
+    <coin_17>
+      <text>Social</text>
+    </coin_17>
+    <coin_18>
+      <text>Información Histórica</text>
+    </coin_18>
+    <coin_19>
+      <text>1 año de capitalización de mercado</text>
+    </coin_19>
+    <coin_20>
+      <text>Haga clic y arrastre en el área de trazado para acercar</text>
+    </coin_20>
+    <coin_21>
+      <text>Pellizque la tabla para acercar</text>
+    </coin_21>
+    <coin_22>
+      <text>Precio</text>
+    </coin_22>
+    <coin_23>
+      <text>Fecha</text>
+    </coin_23>
+    <coin_24>
+      <text>Hight</text>
+    </coin_24>
+    <coin_25>
+      <text>Bajo</text>
+    </coin_25>
+    <coin_26>
+      <text>Tapa del mercado.</text>
+    </coin_26>
+    <coin_27>
+      <text>Anterior</text>
+    </coin_27>
+    <coin_28>
+      <text>Siguiente</text>
+    </coin_28>
+    <!-- COIN DETAIL PAGE -->
+
+    <!-- CONVERT CALCULATOR -->
+    <calculator_1>
+      <text>Calculadora de convertidor</text>
+    </calculator_1>
+    <calculator_2>
+      <text>ingrese el monto a convertir</text>
+    </calculator_2>
+    <calculator_3>
+      <text>Calcular</text>
+    </calculator_3>
+    <calculator_4>
+      <text>La cantidad no puede estar vacía</text>
+    </calculator_4>
+    <!-- CONVERT CALCULATOR -->
+
+    <!-- COIN ALERT AND MANAGE ALERTS -->
+    <alert_1>
+      <text>Crear Una Alerta</text>
+    </alert_1>
+    <alert_2>
+      <text>youremail@mailadress.com</text>
+    </alert_2>
+    <alert_3>
+      <text>Encima</text>
+    </alert_3>
+    <alert_4>
+      <text>Abajo</text>
+    </alert_4>
+    <alert_5>
+      <text>Recibe Alertas</text>
+    </alert_5>
+    <alert_6>
+      <text>La cantidad no puede estar vacía</text>
+    </alert_6>
+    <alert_7>
+      <text>El correo electrónico no puede estar vacío</text>
+    </alert_7>
+    <alert_8>
+      <text>El correo electrónico es incorrecto</text>
+    </alert_8>
+    <alert_9>
+      <text>La alerta fue creada con éxito</text>
+    </alert_9>
+    <alert_10>
+      <text>Alertas de precios de criptomonedas</text>
+    </alert_10>
+    <alert_11>
+      <text>Alertas de precios de monedas</text>
+    </alert_11>
+    <alert_12>
+      <text>Administrar Alertas</text>
+    </alert_12>
+    <alert_13>
+      <text>Administre sus alertas</text>
+    </alert_13>
+    <alert_14>
+      <text>Alerta de búsqueda</text>
+    </alert_14>
+    <alert_15>
+      <text>Fecha</text>
+    </alert_15>
+    <alert_16>
+      <text>Acuñar</text>
+    </alert_16>
+    <alert_17>
+      <text>Precio</text>
+    </alert_17>
+    <alert_18>
+      <text>Estado</text>
+    </alert_18>
+    <alert_19>
+      <text>Activo</text>
+    </alert_19>
+    <alert_20>
+      <text>Pasivo</text>
+    </alert_20>
+    <alert_21>
+      <text>Extraviado</text>
+    </alert_21>
+    <!-- COIN ALERT AND MANAGE ALERTS -->
+
+    <!-- QR CODE -->
+    <qrcode_1>
+      <text>Generador de código QR</text>
+    </qrcode_1>
+    <qrcode_2>
+      <text>Dirección de Wallet</text>
+    </qrcode_2>
+    <qrcode_3>
+      <text>Generar</text>
+    </qrcode_3>
+    <qrcode_4>
+      <text>Descargue el código QR</text>
+    </qrcode_4>
+    <qrcode_5>
+      <text>La dirección de Wallet no puede estar vacía</text>
+    </qrcode_5>
+    <!-- QR CODE -->
+
+    <!-- EXCHANGE SITES -->
+    <exchange_1>
+      <text>Sitios de intercambio</text>
+    </exchange_1>
+    <exchange_2>
+      <text>Ir al sitio</text>
+    </exchange_2>
+    <!-- EXCHANGE SITES -->
+
+    <!-- DONATE PAGE -->
+    <donate_1>
+      <text>Donar</text>
+    </donate_1>
+    <donate_2>
+      <text>Enviar un regalo a través de Bitcoin</text>
+    </donate_2>
+    <donate_3>
+      <text>Enviar un regalo a través de Ethereum</text>
+    </donate_3>
+    <donate_4>
+      <text>Enviar un regalo a través de Litecoin</text>
+    </donate_4>
+    <!-- DONATE PAGE -->
+
+    <!-- CONTACT SITES -->
+    <contact_1>
+      <text>Contacto</text>
+    </contact_1>
+    <contact_2>
+      <text>Nombre de pila*</text>
+    </contact_2>
+    <contact_3>
+      <text>Apellido*</text>
+    </contact_3>
+    <contact_4>
+      <text>Email*</text>
+    </contact_4>
+    <contact_5>
+      <text>Tema*</text>
+    </contact_5>
+    <contact_6>
+      <text>Comentario*</text>
+    </contact_6>
+    <contact_7>
+      <text>Enviar</text>
+    </contact_7>
+    <contact_8>
+      <text>El primer nombre no puede estar vacío</text>
+    </contact_8>
+    <contact_9>
+      <text>El apellido no puede estar vacío</text>
+    </contact_9>
+    <contact_10>
+      <text>El correo electrónico no puede estar vacío</text>
+    </contact_10>
+    <contact_11>
+      <text>El correo electrónico es incorrecto</text>
+    </contact_11>
+    <contact_12>
+      <text>El sujeto no puede estar vacío</text>
+    </contact_12>
+    <contact_13>
+      <text>El comentario no puede estar vacío</text>
+    </contact_13>
+    <contact_14>
+      <text>Mensaje enviado con éxito</text>
+    </contact_14>
+    <!-- CONTACT SITES -->
+
+    <!-- OTHER -->
+    <other_1>
+      <text>Herramientas de criptomoneda</text>
+    </other_1>
+    <other_2>
+      <text>Nuestra información</text>
+    </other_2>
+    <other_3>
+      <text>Tapa Del Merc.</text>
+    </other_3>
+    <other_4>
+      <text>24h Vol.</text>
+    </other_4>
+    <other_5>
+      <text>BTC Dominio</text>
+    </other_5>
+    <!-- OTHER --> 
+
+    <!-- TIME -->
+    <time_1>
+      <text>Hace 1 día</text>
+    </time_1>
+    <time_2>
+      <text>Hace aproximadamente 1 hora</text>
+    </time_2>
+    <time_3>
+      <text>Hace aproximadamente 1 mes</text>
+    </time_3>
+    <time_4>
+      <text>Hace alrededor de 1 año</text>
+    </time_4>
+    <time_5>
+      <text>%s hace un día</text>
+    </time_5>
+    <time_6>
+      <text>%s horas atras</text>
+    </time_6>
+    <time_7>
+      <text>Sólo</text>
+    </time_7>
+    <time_8>
+      <text>%s hace un minuto</text>
+    </time_8>
+    <time_9>
+      <text>%s hace un mes</text>
+    </time_9>
+    <time_10>
+      <text>Hace 1 minuto</text>
+    </time_10>
+    <time_11>
+      <text>%s Hace años</text>
+    </time_11>
+    <time_12>
+      <text>Desconocido</text>
+    </time_12>
+    <!-- TIME --> 
+
+</data>

@@ -1,0 +1,124 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Template Documentation Template</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+	</style>
+</head>
+
+
+<body>
+	<div class="container">
+	
+		<h3 class="center alt">&ldquo;CxCoin - Coin Market Capitalizations and Cryptocurrency Tools&rdquo; Documentation -  v1.0</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;CxCoin - Coin Market Capitalizations and Cryptocurrency Tools &rdquo;</h1>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: 20.01.2018<br>
+					By: Cafer Konur<br>
+					Email: <a href="mailto:konurcafer@gmail.com">konurcafer@gmail.com</a>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my script. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form  <a href="https://codecanyon.net/user/caferx" target="_blank">here</a>. Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#config">Database Configure</a><em class="quiet small">(config.php)</em></li>
+			<li><a href="#cronjob">Cronjobs</a></li>
+			<li><a href="#admin">Admin Panel</a></li>
+			<li><a href="#video">Watch Install Video</a></li>
+			
+		</ol>
+		
+		<hr>
+		
+		<h3 id="config"><strong>A) Database Configure</strong> - <a href="#toc">top</a></h3>
+		
+		<img src="assets/images/htmlstructure.jpg" alt="HTML Structure" />
+		
+		<p><br><strong>Path of the file: </strong>public_html > system > config.php</p>
+<pre>	
+<strong>$db_host="localhost"; </strong> >  Your HOST, default is "localhost"
+
+<strong>$db_n="database_name";</strong> > Your MySQL username
+
+<strong>$db_u="username";</strong> > Your MySQL password
+
+<strong>$db_p="database_password";</strong> > The name of the database
+
+<strong>$site_url="http://www.site-url.com";</strong> > Your site url address
+
+<strong>$ssl_status=false;</strong> > Your site's SSL status, true or false
+
+</pre>
+
+		<p>Config settings are set automatically with quick setup. Set your SSL settings or you can use it to change the site URL.</p>
+
+		<hr>
+
+		<h3 id="cronjob"><strong>B) Cronjob</strong> - <a href="#toc">top</a></h3>
+
+		<p>You must define cronjobs settings for system properties to work properly. Market Capitalizion, New cryptocurrency, Current currency data, Created alerts is working with cronjob.</p> 
+
+		<h4><strong>Cronjob - Market Cap.</strong></h4>
+		<p>	<img src="assets/images/cron_1.png" alt="">
+			<pre>wget -O /dev/null http://www.site-url.com/system/cronjobs/coinmarketcap_update.php > /dev/null</pre>
+		</p>
+
+		<h4><strong>Cronjob - New Cryptocurrency</strong></h4>
+		<p>	<img src="assets/images/cron_2.png" alt="">
+			<pre>wget -O /dev/null http://www.site-url.com/system/cronjobs/coinmarketcap_newcoin.php > /dev/null</pre>
+		</p>
+
+		<h4><strong>Cronjob - Currency Data</strong></h4>
+		<p>	<img src="assets/images/cron_2.png" alt="">
+			<pre>wget -O /dev/null http://www.site-url.com/system/cronjobs/coin_alert_control.php > /dev/null</pre>
+		</p>
+
+		<h4><strong>Cronjob - Created Alerts</strong></h4>
+		<p>	<img src="assets/images/cron_2.png" alt="">
+			<pre>wget -O /dev/null wget -O /dev/null http://www.site-url.com/system/cronjobs/currencylayer_api.php > /dev/null</pre>
+		</p>
+		
+		
+		<hr>
+		
+		<h3 id="admin"><strong>D) Admin Panel</strong>(default) - <a href="#toc">top</a></h3>
+		
+		<p><strong>URL: </strong>http://www.site-url.com/admin_cX</p>
+		
+		<p><strong>Username: </strong>cx</p>
+		
+		<p><strong>Password: </strong>cx</p>
+		<hr>		
+		<h3 id="video"><strong>E) Watch Install Video</strong> - <a href="#toc">top</a></h3>
+		
+		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/i73Tj-n3e2c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+		
+		<p class="append-bottom alt large"><strong>Cafer Konur</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>

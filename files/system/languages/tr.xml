@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <!-- HEADER -->
+    <header_1>
+      <text>Bağış</text>
+    </header_1>
+    <header_2>
+      <text>Kriptopara Market Fiyatları</text>
+    </header_2>
+    <header_3>
+      <text>Kriptopara Dönüştürücü</text>
+    </header_3>
+    <header_4>
+      <text>Fiyat Alarm</text>
+    </header_4>
+    <header_5>
+      <text>Diğer Araçlar</text>
+    </header_5>
+    <header_6>
+      <text>QR Code Oluştur</text>
+    </header_6>
+    <header_7>
+      <text>Satınalma Siteleri</text>
+    </header_7>
+    <!-- HEADER -->
+    
+    <!-- FOOTER -->
+    <footer_1>
+      <text>S.S.S</text>
+    </footer_1>
+    <footer_2>
+      <text>Bağış</text>
+    </footer_2>
+    <footer_3>
+      <text>İletişim</text>
+    </footer_3>
+    <footer_4>
+      <text>Sitemap</text>
+    </footer_4>
+    <!-- FOOTER -->
+
+    <!-- HOMEPAGE -->
+    <index_1>
+      <text>Kriptopara Araçları</text>
+    </index_1>
+    <index_2>
+      <text>Market Fiyatları</text>
+    </index_2>
+    <index_3>
+      <text>Coin Hesaplama</text>
+    </index_3>
+    <index_4>
+      <text>Fiyat Alarm</text>
+    </index_4>
+    <index_5>
+      <text>QR Code</text>
+    </index_5>
+    <index_6>
+      <text>Satınalma Siteleri</text>
+    </index_6>
+    <index_7>
+      <text>Kriptopara Market Fiyatları</text>
+    </index_7>
+    <index_8>
+      <text>Kriptoparalar</text>
+    </index_8>
+    <index_9>
+      <text>No.</text>
+    </index_9>
+    <index_10>
+      <text>Coin Adı</text>
+    </index_10>
+    <index_11>
+      <text>Fiyat</text>
+    </index_11>
+    <index_12>
+      <text>Market Değeri.</text>
+    </index_12>
+    <index_13>
+      <text>Hacim (24s)</text>
+    </index_13>
+    <index_14>
+      <text>Değişim (24s)</text>
+    </index_14>
+    <index_15>
+      <text>Fiyat Grafiği (7g)</text>
+    </index_15>
+    <index_16>
+      <text>Geri</text>
+    </index_16>
+    <index_17>
+      <text>İleri</text>
+    </index_17>
+    <index_18>
+      <text>Ara</text>
+    </index_18>
+    <!-- HOMEPAGE -->
+
+    <!-- COIN DETAIL PAGE -->
+    <coin_1>
+      <text>Bilgileri</text>
+    </coin_1>
+    <coin_2>
+      <text>Son Güncelleme</text>
+    </coin_2>
+    <coin_3>
+      <text>Web Site</text>
+    </coin_3>
+    <coin_4>
+      <text>İncelemeler</text>
+    </coin_4>
+    <coin_5>
+      <text>Mesaj Panosu</text>
+    </coin_5>
+    <coin_6>
+      <text>Chat</text>
+    </coin_6>
+    <coin_7>
+      <text>Kaynak Kodu</text>
+    </coin_7>
+    <coin_8>
+      <text>Duyuru</text>
+    </coin_8>
+    <coin_10>
+      <text>Fiyat Alarm</text>
+    </coin_10>
+    <coin_11>
+      <text>Anında Al / Sat</text>
+    </coin_11>
+    <coin_12>
+      <text>Piyasa Değeri</text>
+    </coin_12>
+    <coin_13>
+      <text>Hacim (24s)</text>
+    </coin_13>
+    <coin_14>
+      <text>Tahmini Arz</text>
+    </coin_14>
+    <coin_15>
+      <text>Maksimum Tedarik</text>
+    </coin_15>
+    <coin_16>
+      <text>Grafikler</text>
+    </coin_16>
+    <coin_17>
+      <text>Sosyal</text>
+    </coin_17>
+    <coin_18>
+      <text>Geçmiş Veriler</text>
+    </coin_18>
+    <coin_19>
+      <text>1 Yıllık Piyasa Değeri</text>
+    </coin_19>
+    <coin_20>
+      <text>Yakınlaştırmak için çizim alanını tıklayın ve sürükleyin.</text>
+    </coin_20>
+    <coin_21>
+      <text>Yakınlaştırmak için grafiği sıkıştırın</text>
+    </coin_21>
+    <coin_22>
+      <text>Fiyat</text>
+    </coin_22>
+    <coin_23>
+      <text>Tarih</text>
+    </coin_23>
+    <coin_24>
+      <text>Yüksek</text>
+    </coin_24>
+    <coin_25>
+      <text>Düşük</text>
+    </coin_25>
+    <coin_26>
+      <text>Piyasa D.</text>
+    </coin_26>
+    <coin_27>
+      <text>Geri</text>
+    </coin_27>
+    <coin_28>
+      <text>İleri</text>
+    </coin_28>
+    <!-- COIN DETAIL PAGE -->
+
+    <!-- CONVERT CALCULATOR -->
+    <calculator_1>
+      <text>Fiyat Dönüştürücü</text>
+    </calculator_1>
+    <calculator_2>
+      <text>dönüştürülecek miktarı girin</text>
+    </calculator_2>
+    <calculator_3>
+      <text>Hesapla</text>
+    </calculator_3>
+    <calculator_4>
+      <text>Miktar Boş Olamaz</text>
+    </calculator_4>
+    <!-- CONVERT CALCULATOR -->
+
+    <!-- COIN ALERT AND MANAGE ALERTS -->
+    <alert_1>
+      <text>Alarm Oluştur</text>
+    </alert_1>
+    <alert_2>
+      <text>youremail@mailadress.com</text>
+    </alert_2>
+    <alert_3>
+      <text>Çıkınca</text>
+    </alert_3>
+    <alert_4>
+      <text>Düşünce</text>
+    </alert_4>
+    <alert_5>
+      <text>Alarmı Kur</text>
+    </alert_5>
+    <alert_6>
+      <text>Miktar Boş Olamaz</text>
+    </alert_6>
+    <alert_7>
+      <text>E-mail Boş Olamaz</text>
+    </alert_7>
+    <alert_8>
+      <text>E-mail Yanlış</text>
+    </alert_8>
+    <alert_9>
+      <text>Alert Başarıyla Olışturuldu</text>
+    </alert_9>
+    <alert_10>
+      <text>Kriptopara Fiyat Alarmı</text>
+    </alert_10>
+    <alert_11>
+      <text>Coin Fiyat Alarm</text>
+    </alert_11>
+    <alert_12>
+      <text>Alarmlarım</text>
+    </alert_12>
+    <alert_13>
+      <text>Alarmlarını Görüntüle</text>
+    </alert_13>
+    <alert_14>
+      <text>Alarm Ara</text>
+    </alert_14>
+    <alert_15>
+      <text>Tarih</text>
+    </alert_15>
+    <alert_16>
+      <text>Coin</text>
+    </alert_16>
+    <alert_17>
+      <text>Fiyat</text>
+    </alert_17>
+    <alert_18>
+      <text>Durum</text>
+    </alert_18>
+    <alert_19>
+      <text>Aktif</text>
+    </alert_19>
+    <alert_20>
+      <text>Pasif</text>
+    </alert_20>
+    <alert_21>
+      <text>Bulunamadı!</text>
+    </alert_21>
+    <!-- COIN ALERT AND MANAGE ALERTS -->
+
+    <!-- QR CODE -->
+    <qrcode_1>
+      <text>QR Code Oluştur</text>
+    </qrcode_1>
+    <qrcode_2>
+      <text>Wallet Adresi</text>
+    </qrcode_2>
+    <qrcode_3>
+      <text>Oluştur</text>
+    </qrcode_3>
+    <qrcode_4>
+      <text>QR Code - İndir</text>
+    </qrcode_4>
+    <qrcode_5>
+      <text>Wallet Boş Olamaz</text>
+    </qrcode_5>
+    <!-- QR CODE -->
+
+    <!-- EXCHANGE SITES -->
+    <exchange_1>
+      <text>Satınalma Siteleri</text>
+    </exchange_1>
+    <exchange_2>
+      <text>Siteye git</text>
+    </exchange_2>
+    <!-- EXCHANGE SITES -->
+
+    <!-- DONATE PAGE -->
+    <donate_1>
+      <text>Bağış Yap</text>
+    </donate_1>
+    <donate_2>
+      <text>Bitcoin ile bağış yap</text>
+    </donate_2>
+    <donate_3>
+      <text>Ethereum ile bağış yap</text>
+    </donate_3>
+    <donate_4>
+      <text>Litecoin ile bağış yap</text>
+    </donate_4>
+    <!-- DONATE PAGE -->
+
+    <!-- CONTACT SITES -->
+    <contact_1>
+      <text>İletişim</text>
+    </contact_1>
+    <contact_2>
+      <text>isim*</text>
+    </contact_2>
+    <contact_3>
+      <text>Soyisim*</text>
+    </contact_3>
+    <contact_4>
+      <text>Email*</text>
+    </contact_4>
+    <contact_5>
+      <text>Konu*</text>
+    </contact_5>
+    <contact_6>
+      <text>Mesaj*</text>
+    </contact_6>
+    <contact_7>
+      <text>Gönder</text>
+    </contact_7>
+    <contact_8>
+      <text>İsim Boş Olamaz</text>
+    </contact_8>
+    <contact_9>
+      <text>Soyisim Boş Olamaz</text>
+    </contact_9>
+    <contact_10>
+      <text>E-Mail Boş Olamaz</text>
+    </contact_10>
+    <contact_11>
+      <text>E-mail Yanlış</text>
+    </contact_11>
+    <contact_12>
+      <text>Konu Boş Olamaz</text>
+    </contact_12>
+    <contact_13>
+      <text>Mesaj Boş Olamaz</text>
+    </contact_13>
+    <contact_14>
+      <text>Mesaj Başarıyla Gönderildi</text>
+    </contact_14>
+    <!-- CONTACT SITES -->
+
+    <!-- OTHER -->
+    <other_1>
+      <text>Kripto Para Araçları</text>
+    </other_1>
+    <other_2>
+      <text>Bilgilerimiz</text>
+    </other_2>
+    <other_3>
+      <text>Piyasa Değerleri</text>
+    </other_3>
+    <other_4>
+      <text>24s Hacim</text>
+    </other_4>
+    <other_5>
+      <text>BTC Üstünlüğü</text>
+    </other_5>
+    <!-- OTHER --> 
+
+    <!-- TIME -->
+    <time_1>
+      <text>1 gün önce</text>
+    </time_1>
+    <time_2>
+      <text>Yaklaşık 1 saat önce</text>
+    </time_2>
+    <time_3>
+      <text>Yaklaşık 1 ay önceo</text>
+    </time_3>
+    <time_4>
+      <text>Yaklaşık 1 yıl önce</text>
+    </time_4>
+    <time_5>
+      <text>%s gün önce</text>
+    </time_5>
+    <time_6>
+      <text>%s saat önce</text>
+    </time_6>
+    <time_7>
+      <text>Az önce</text>
+    </time_7>
+    <time_8>
+      <text>%s dakika önce</text>
+    </time_8>
+    <time_9>
+      <text>%s ay önce</text>
+    </time_9>
+    <time_10>
+      <text>1 dakika önce</text>
+    </time_10>
+    <time_11>
+      <text>%s yıl önce</text>
+    </time_11>
+    <time_12>
+      <text>Bilinmiyor</text>
+    </time_12>
+    <!-- TIME --> 
+
+</data>
